@@ -1,1 +1,61 @@
+/*.sw {*/
+/*    width: 500px;*/
+/*    height: 100px;*/
+/*    background-color: red;*/
+/*    animation-name: software;*/
+/*    animation-duration: 4s;*/
+/*}*/
 
+/*@keyframes software {*/
+/*    0% {background-color: red;}*/
+/*    25% {background-color: blue;}*/
+/*    50% {background-color: green; }*/
+/*    100% {background-color: orange;}*/
+/*}*/
+
+
+/*.blue{*/
+/*    border: solid;*/
+/*    border-width: 5px;*/
+/*    border-color: lightblue;*/
+/*    border-radius: 10px;*/
+/*    background-color: lightgrey;*/
+/*    padding-top: 15px;*/
+/*    padding-right: 10px;*/
+/*    padding-bottom: 15px;*/
+/*    padding-left: 10px;*/
+/*    border-collapse: separate;*/
+/*    border-spacing:20px;*/
+/*}*/
+
+
+
+/*.picture{*/
+/*    width:1000px;*/
+/*    height: 1000px;*/
+/*}*/
+
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.blue {
+  background-color: #D5C3DE;
+  width: 500px;
+  padding: 50px;
+  margin: 35px;
+  border: 2px solid red ;
+  border-radius: 5px;
+}
+
+ 
