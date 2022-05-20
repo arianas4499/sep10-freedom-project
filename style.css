@@ -158,7 +158,15 @@
 
 
 
-
+.red {
+  background-color: #D5C3DE;
+  width:900px;
+  padding:30px;
+  margin: 10px;
+  border: 2px solid red;
+  border-radius: 5px;
+  justify-content:center;
+}
 
 
 /*css for boxes in the middle */
@@ -170,6 +178,7 @@
   border: 2px solid red ;
   border-radius: 5px;
 }
+
 
 
 
