@@ -290,8 +290,7 @@ height: 5px;
   --eevee2: #acc6f8;
   --eeveefront: url(/img/cat.jpeg);
   --mewtwo1: #efb2fb;
-  --mewtwo2: #acc6f8;
-  --mewtwofront: url(img/garden.jpeg);
+  --mewtwo2: #acc6f8; --mewtwofront: url(/img/garden.jpeg);
 }
 
 
