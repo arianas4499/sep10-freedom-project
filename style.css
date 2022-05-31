@@ -279,7 +279,7 @@ height: 5px;
 :root {
   --color1: rgb(0, 231, 255);
   --color2: rgb(255, 0, 231);
-  --back: url(https://cdn2.bulbagarden.net/upload/1/17/Cardback.jpg);
+  /*--back: url(https://cdn2.bulbagarden.net/upload/1/17/Cardback.jpg);*/
   --charizard1: #fac;
   --charizard2: #ddccaa;
   --charizardfront: url(/img/outside.jpeg);
@@ -291,7 +291,7 @@ height: 5px;
   --eeveefront: url(/img/cat.jpeg);
   --mewtwo1: #efb2fb;
   --mewtwo2: #acc6f8;
-  --mewtwofront: url(/img/garden.jpeg);
+  --mewtwofront: url(/img/garden.png);
 }
 
 
