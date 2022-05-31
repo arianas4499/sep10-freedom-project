@@ -282,16 +282,16 @@ height: 5px;
   --back: url(https://cdn2.bulbagarden.net/upload/1/17/Cardback.jpg);
   --charizard1: #fac;
   --charizard2: #ddccaa;
-  --charizardfront: url(/img/outside.jpeg);
+  --charizardfront: url(/img/outside.jpg);
   --pika1: #54a29e;
   --pika2: #a79d66;
-  --pikafront: url(/img/flowers.jpeg);
+  --pikafront: url(/img/flowers.jeg);
   --eevee1: #efb2fb;
   --eevee2: #acc6f8;
-  --eeveefront: url(/img/cat.jpeg);
+  --eeveefront: url(/img/cat.jeg);
   --mewtwo1: #efb2fb;
   --mewtwo2: #acc6f8;
-  --mewtwofront: url(/img/garden.png);
+  --mewtwofront: url(/img/garden.ng);
 }
 
 
