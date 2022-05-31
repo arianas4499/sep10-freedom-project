@@ -350,28 +350,28 @@ height: 5px;
     0 55px 35px -20px rgba(0, 0, 0, 0.5);
 }
 
-/*.card.charizard {*/
-/*  --color1: var(--charizard1);*/
-/*  --color2: var(--charizard2);*/
-/*  --front: var(--charizardfront);*/
-/*}*/
-/*.card.pika {*/
-/*  --color1: var(--pika1);*/
-/*  --color2: var(--pika2);*/
-/*  --front: var(--pikafront);*/
-/*}*/
-/*.card.mewtwo {*/
-/*  --color1: var(--mewtwo1);*/
-/*  --color2: var(--mewtwo2);*/
-/*  --front: var(--mewtwofront);*/
-/*}*/
-/*.card.eevee {*/
-/*  --color1: #ec9bb6;*/
-/*  --color2: #ccac6f;*/
-/*  --color3: #69e4a5;*/
-/*  --color4: #8ec5d6;*/
-/*  --color5: #b98cce;*/
-/*  --front: var(--eeveefront);*/
+.card.charizard {
+  --color1: var(--charizard1);
+  --color2: var(--charizard2);
+  --front: var(--charizardfront);
+}
+.card.pika {
+  --color1: var(--pika1);
+  --color2: var(--pika2);
+  --front: var(--pikafront);
+}
+.card.mewtwo {
+  --color1: var(--mewtwo1);
+  --color2: var(--mewtwo2);
+  --front: var(--mewtwofront);
+}
+.card.eevee {
+  --color1: #ec9bb6;
+  --color2: #ccac6f;
+  --color3: #69e4a5;
+  --color4: #8ec5d6;
+  --color5: #b98cce;
+  --front: var(--eeveefront);
 }
 
 .card:before,
